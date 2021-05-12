@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `npm install --save @fortawesome/free-solid-svg-icons`
 ### `npm install --save @fortawesome/free-regular-svg-icons`
 ### `npm install --save @fortawesome/react-fontawesome`
-### `npm install --save styled-components`
+### `npm install --save styled-components` lala
 
 ## Available Scripts
 
